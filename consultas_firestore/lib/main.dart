@@ -14,7 +14,7 @@ class App extends StatelessWidget {
       title: "Exemplo Simples BD",
       debugShowCheckedModeBanner: false,
       theme: ThemeData(primarySwatch: Colors.green),
-      home: Inclusao(),
+      home: Principal(),
     );
   }
 }
